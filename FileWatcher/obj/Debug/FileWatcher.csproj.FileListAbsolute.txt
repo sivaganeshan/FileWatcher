@@ -1,0 +1,6 @@
+c:\users\sivaganeshan\documents\visual studio 2012\Projects\FileWatcher\FileWatcher\bin\Debug\FileWatcher.exe.config
+c:\users\sivaganeshan\documents\visual studio 2012\Projects\FileWatcher\FileWatcher\bin\Debug\FileWatcher.exe
+c:\users\sivaganeshan\documents\visual studio 2012\Projects\FileWatcher\FileWatcher\bin\Debug\FileWatcher.pdb
+c:\users\sivaganeshan\documents\visual studio 2012\Projects\FileWatcher\FileWatcher\obj\Debug\FileWatcher.csprojResolveAssemblyReference.cache
+c:\users\sivaganeshan\documents\visual studio 2012\Projects\FileWatcher\FileWatcher\obj\Debug\FileWatcher.exe
+c:\users\sivaganeshan\documents\visual studio 2012\Projects\FileWatcher\FileWatcher\obj\Debug\FileWatcher.pdb
